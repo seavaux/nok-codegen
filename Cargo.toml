@@ -2,6 +2,7 @@
 name = "nok-codegen"
 version = "0.0.1"
 authors = ["seavaux <seavaux@seavaux.com>"]
+description = "Concrete Error type built around a pseudo stack trace"
 keywords = ["error", "error-handling"]
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/seavaux/nok-codegen"
