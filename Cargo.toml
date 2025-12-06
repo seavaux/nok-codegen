@@ -1,6 +1,10 @@
 [package]
 name = "nok-codegen"
 version = "0.0.1"
+authors = ["seavaux <seavaux@seavaux.com>"]
+keywords = ["error", "error-handling"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/seavaux/nok-codegen"
 edition = "2021"
 
 [lib]
